@@ -2,7 +2,18 @@
     background-color: rgb(237, 40, 155);
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
+
 #num2 {
     color: rgb(18, 18, 231);
     font-size: 36px;
+}
+
+.adjust_fontsize {
+    font-size: 24px;
+}
+
+#num4 {
+    background-color: rgb(87, 149, 87);
+    font-size: 24px;
+    font-weight: bold;
 }
